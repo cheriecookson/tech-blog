@@ -9,7 +9,7 @@ Post.init(
             type: DataTypes.STRING,
             allowNull: false
         },
-        body: {
+        post_url: {
             type: DataTypes.STRING,
             allowNull: false
         }
